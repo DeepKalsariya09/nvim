@@ -7,6 +7,9 @@
 -- RHS = What Neovim executes instead
 -- OPTS = Option (non-recursive, silent, etc.)
 
+local discipline = require("craftzdog.discipline")
+discipline.cowboy()
+
 local keymap = vim.keymap
 local opts = { noremap = true, silent = true }
 
