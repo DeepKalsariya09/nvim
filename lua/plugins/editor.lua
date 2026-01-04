@@ -143,4 +143,19 @@ return {
     require("telescope").load_extension("fzf")
     require("telescope").load_extension("file_browser")
   end,
+  {
+    "folke/flash.nvim",
+    enabled = false,
+  },
+
+  -- animations
+  {
+    "nvim-mini/mini.animate",
+    event = "VeryLazy",
+    opts = function(_, opts)
+      opts.scroll = {
+        enable = false,
+      }
+    end,
+  },
 }
